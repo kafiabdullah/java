@@ -1,0 +1,24 @@
+accountNumber:1
+accountName:Hasan Tareque
+address:24 Kemal Ataturk Avenue;Banani, Dhaka - 1213
+balance:10000.0
+accountNumber:2
+accountName:Rakibul Hasan
+address:64 Kemal Ataturk Avenue;Banani, Dhaka - 1213
+balance:1000000.0
+accountNumber:3
+accountName:Md. Ashiqur Rahman
+address:1234 Shantinagar;Dhaka;Bangladesh
+balance:57442.0
+accountNumber:4
+accountName:Roksana Akter Jolly
+address:666 Shantinagar;Dhaka;Bangladesh
+balance:6657442.0
+accountNumber:5
+accountName:Test Account
+address:Some address;Another line
+balance:500.0
+accountNumber:6
+accountName:John Doe
+address:Nowhere
+balance:1000.0
